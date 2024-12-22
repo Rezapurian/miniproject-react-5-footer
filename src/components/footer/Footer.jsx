@@ -10,7 +10,7 @@ export default function Footer() {
       <div className="items">
         <h1 className="title">
           <span className="title-span">Free </span>
-          until you're ready to <br /> launch
+          until you're ready to launch
         </h1>
         <div>
           <input type="text" placeholder="Enter your phone" className="input" />
